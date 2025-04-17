@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestDocker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestDocker_jar</output-path>
+    <root id="archive" name="TestDocker.jar">
+      <element id="module-output" name="TestDocker" />
+      <element id="module-test-output" name="TestDocker" />
+    </root>
+  </artifact>
+</component>
